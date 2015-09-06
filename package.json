@@ -1,0 +1,20 @@
+{
+  "name": "vipc-gulp-modified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index",
+  "author": {
+    "name": "Vipc Dev"
+  },
+  "scripts": {
+    "example": "./node_modules/.bin/gulp.cmd"
+  },
+  "dependencies": {
+    "etag": "^1.7.0",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
